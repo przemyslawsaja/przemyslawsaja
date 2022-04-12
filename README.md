@@ -27,5 +27,5 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 
 📫 How to reach me:
 
-przemyslawsaja@gmail.com
+przemyslawsaja@gmail.com <br />
 https://www.linkedin.com/in/przemyslawsaja/
