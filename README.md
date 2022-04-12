@@ -16,7 +16,7 @@
 
 🔭 I am currently working on an app for managing and arranging workout plans, which is also the topic of my engineering thesis.
 
-DEMO: https://gymlab.netlify.app/
+DEMO: https://gymlab.netlify.app/ <br />
 CODE: https://github.com/przemyslawsaja/gym-lab-client
 
 🌱 I’m currently learning
