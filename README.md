@@ -23,7 +23,6 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 🌱 I’m currently learning
 - cypress
 - three.js
-- pwa
 
 📫 How to reach me:
 
