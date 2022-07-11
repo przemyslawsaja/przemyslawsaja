@@ -21,7 +21,6 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 - HOTJAR
 
 🌱 I’m currently learning
-- cypress
 - three.js
 
 📫 How to reach me:
