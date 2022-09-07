@@ -13,7 +13,7 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 - BLUEPRINT.JS / MATERIAL UI
 - NEXT.JS
 - JAVASCRIPT / TYPESCRIPT
-- REACT / REACT NATIVE
+- REACT
 - MOBX.JS / REDUX / CONTEXT + HOOKS
 - JEST
 - STORYBOOK 
@@ -21,6 +21,8 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 
 🌱 I’m currently learning
 - three.js
+- react native
+- flow blockchain
 
 📫 How to reach me:
 
