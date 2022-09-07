@@ -10,7 +10,7 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 
 - HTML5
 - CSS3 / SCSS / LESS / STYLED COMPONENTS
-- BLUEPRINT.JS
+- BLUEPRINT.JS / MATERIAL UI
 - NEXT.JS
 - JAVASCRIPT / TYPESCRIPT
 - REACT / REACT NATIVE
