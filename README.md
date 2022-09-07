@@ -9,13 +9,12 @@ CODE: https://github.com/przemyslawsaja/gym-lab-client
 ✨ Langues & Technolgies 
 
 - HTML5
-- CSS3
-- SCSS / LESS
+- CSS3 / SCSS / LESS / STYLED COMPONENTS
 - BLUEPRINT.JS
-- GATSBY.JS
+- NEXT.JS
 - JAVASCRIPT / TYPESCRIPT
-- REACT
-- MOBX.JS
+- REACT / REACT NATIVE
+- MOBX.JS / REDUX / CONTEXT + HOOKS
 - JEST
 - STORYBOOK 
 - HOTJAR
