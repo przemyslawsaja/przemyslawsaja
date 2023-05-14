@@ -1,18 +1,22 @@
 ### Hi there 👋
 
+👨‍💻 Latest Project
+
+CODE: https://github.com/przemyslawsaja/gym-lab-client
+LIVE: https://gymlab.netlify.app/
+
 ✨ Langues & Technolgies 
 
-- HTML5
-- CSS3 / SCSS / LESS 
-- STYLED COMPONENTS
-- BLUEPRINT.JS / MATERIAL UI / TAILWIND
+- REACT
+- VUE 2 / VUE 3
 - NEXT.JS
 - JAVASCRIPT / TYPESCRIPT
-- REACT
-- VUE
-- MOBX.JS / REDUX / CONTEXT + HOOKS / VUEX
+- CSS3 / SCSS / LESS / STYLED COMPONENTS / BLUEPRINT.JS / MATERIAL UI / TAILWIND
+- MOBX.JS / REDUX / CONTEXT + HOOKS / VUEX / ZUSTAND
+- REST / GRAPHQL
 - JEST
 - STORYBOOK 
+- SWR
 
 🌱 I’m currently learning
 - three.js
