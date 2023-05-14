@@ -2,7 +2,7 @@
 
 👨‍💻 Latest Project
 
-CODE: https://github.com/przemyslawsaja/gym-lab-client
+CODE: https://github.com/przemyslawsaja/gym-lab-client        
 LIVE: https://gymlab.netlify.app/
 
 ✨ Langues & Technolgies 
