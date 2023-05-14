@@ -5,7 +5,7 @@
 CODE: https://github.com/przemyslawsaja/gym-lab-client        
 LIVE: https://gymlab.netlify.app/
 
-✨ Langues & Technolgies 
+✨ Technolgies 
 
 - REACT
 - VUE 2 / VUE 3
